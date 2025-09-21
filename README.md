@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25oZWhnb2Fpb2RtMGxzZWowc3VhajhhbGk5YWtuN2pxZ2V3bHVqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="400" alt="Dev Card" />
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25oZWhnb2Fpb2RtMGxzZWowc3VhajhhbGk5YWtuN2pxZ2V3bHVqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="250" alt="Dev Card" />
 
 ### Hola, soy Marco David 😎  
 
@@ -52,7 +52,11 @@
   <a href="https://www.facebook.com/share/19wh1B75yE/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb_marco" height="30" width="40" />
   </a>
+  <a href="" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tw_marco" height="30" width="40" />
+  </a>
   <a href="https://www.instagram.com/marcodavidch?igsh=MTFtbHl2YXJ3aDZoeA==" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_marco" height="30" width="40" />
   </a>            
 </p>
+
