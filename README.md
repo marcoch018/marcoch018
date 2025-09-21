@@ -15,8 +15,8 @@
 
 ### Hola, soy Marco David 😎  
 
-- 💻 Estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Agustín (UNSA). 👨‍🎓  
-- 📝 Apasionado por el desarrollo web frontend y en constante aprendizaje de nuevas tecnologías. 😅  
+- 💻 Estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Agustín (UNSA)👨‍🎓  
+- 📝 Apasionado por el desarrollo web frontend 🧑‍💻
 - 🏡 Vivo en Arequipa, Perú 🏙️  
 - ⚡ Dato curioso → Me encantan las motos 🏍️ y crear aplicaciones web creativas 🚀  
 - 💯 Estoy muy feliz cuando lees mi perfil 🙄  
