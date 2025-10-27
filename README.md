@@ -49,13 +49,13 @@
 
 ### 🌐 Redes sociales:
 <p align="center">                
-  <a href="https://www.facebook.com/share/19wh1B75yE/" target="_blank">
+  <a href="" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb_marco" height="30" width="40" />
   </a>
   <a href="https://twitter.com/TU_USUARIO_AQUI" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tw_marco" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/marcodavidch?igsh=MTFtbHl2YXJ3aDZoeA==" target="_blank">
+  <a href="" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_marco" height="30" width="40" />
   </a>            
 </p>
